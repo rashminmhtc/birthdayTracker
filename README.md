@@ -1,5 +1,5 @@
-Birthday Tracker
-A React Web App to keep track of birthdays.
+Birthday Tracker <br/>
+React Web App to track birthdays.
 
 Installation:
 npm install
